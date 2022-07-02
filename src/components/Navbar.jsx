@@ -6,7 +6,7 @@ const Navbar = () => {
             <nav className="navbar mt-2 my-4">
                 <div className="container-fluid">
                     <div className="navbar-brand ms-lg-5 ms-2">
-                        <span className="bold">Zygarde</span>
+                        <span className="bold">Cheffy</span>
                         <span>🍟</span>
                     </div>
                 </div>
